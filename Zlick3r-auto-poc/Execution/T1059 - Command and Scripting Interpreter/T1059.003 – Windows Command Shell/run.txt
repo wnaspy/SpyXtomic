@@ -1,0 +1,1 @@
+echo "Hello from the Windows Command Prompt!" > "C:\Users\msi\Desktop\Xteam-Reseacher\dailywekken\Logs\t1059.003.txt" & type "C:\Users\msi\Desktop\Xteam-Reseacher\dailywekken\Logs\t1059.003.txt"

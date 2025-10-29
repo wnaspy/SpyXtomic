@@ -1,0 +1,1 @@
+Invoke-WebRequest "https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.005/src/sys_info.vbs" -OutFile "C:\Users\msi\Desktop\Xteam-Reseacher\dailywekken\Setup\sys_info.vbs"

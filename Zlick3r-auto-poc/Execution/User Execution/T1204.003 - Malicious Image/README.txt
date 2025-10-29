@@ -1,0 +1,1 @@
+Không khai thác được

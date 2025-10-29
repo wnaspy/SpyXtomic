@@ -1,0 +1,2 @@
+Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.007/src/sys_info.js' -OutFile 'C:\Users\msi\Desktop\Xteam-Reseacher\dailywekken\Setup\sys_info.js'
+cscript "C:\Users\msi\Desktop\Xteam-Reseacher\dailywekken\Setup\sys_info.js" > "C:\Users\msi\Desktop\Xteam-Reseacher\dailywekken\Logs\T1059.007.out.txt"

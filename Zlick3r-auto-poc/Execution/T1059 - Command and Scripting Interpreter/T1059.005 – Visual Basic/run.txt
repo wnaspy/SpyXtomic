@@ -1,0 +1,2 @@
+cscript "C:\Users\msi\Desktop\Xteam-Reseacher\dailywekken\Setup\sys_info.vbs" > "C:\Users\msi\Desktop\Xteam-Reseacher\dailywekken\Logs\sys_info.txt"
+Start-Process -FilePath "C:\Users\msi\Desktop\Xteam-Reseacher\dailywekken\Logs\sys_info.txt"

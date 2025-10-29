@@ -1,0 +1,4 @@
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe /out:"C:\Users\msi\Desktop\Xteam-Reseacher\dailywekken\Logs\T1106.exe" /target:exe "C:\Users\msi\Desktop\Xteam-Reseacher\dailywekken\Logs\T1106.cs"
+C:\Users\msi\Desktop\Xteam-Reseacher\dailywekken\Logs\T1106.exe
+
+start C:\Users\msi\Desktop\Xteam-Reseacher\dailywekken\Logs\T1106.exe

