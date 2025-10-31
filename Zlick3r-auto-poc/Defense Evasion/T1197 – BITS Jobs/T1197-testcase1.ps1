@@ -1,0 +1,1 @@
+bitsadmin.exe /transfer /Download /priority Foreground https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1197/T1197.md -Destination %temp%\bitsadmin1_flag.ps1

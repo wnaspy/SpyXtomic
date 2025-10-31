@@ -1,0 +1,1 @@
+Start-BitsTransfer -Priority foreground -Source https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1197/T1197.md -Destination %temp%\bitsadmin1_flag.ps1
