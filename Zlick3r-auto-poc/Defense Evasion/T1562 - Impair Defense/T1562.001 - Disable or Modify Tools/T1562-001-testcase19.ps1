@@ -1,0 +1,7 @@
+New-Item -Path "HKCU:\Software\Microsoft\Office\16.0\Excel"
+New-Item -Path "HKCU:\Software\Microsoft\Office\16.0\Excel\Security"
+New-Item -Path "HKCU:\Software\Microsoft\Office\16.0\Excel\Security\ProtectedView"
+New-ItemProperty -Path "HKCU:\Software\Microsoft\Office\16.0\Excel\Security" -Name "VBAWarnings" -Value "1" -PropertyType "Dword"
+New-ItemProperty -Path "HKCU:\Software\Microsoft\Office\16.0\Excel\Security\ProtectedView" -Name "DisableInternetFilesInPV" -Value "1" -PropertyType "Dword"
+New-ItemProperty -Path "HKCU:\Software\Microsoft\Office\16.0\Excel\Security\ProtectedView" -Name "DisableUnsafeLocationsInPV" -Value "1" -PropertyType "Dword"
+New-ItemProperty -Path "HKCU:\Software\Microsoft\Office\16.0\Excel\Security\ProtectedView" -Name "DisableAttachementsInPV" -Value "1" -PropertyType "Dword"
